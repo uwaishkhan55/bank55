@@ -1,0 +1,35 @@
+#h1
+{
+    color: black;
+}
+#h4
+{
+     transform: translate(380px,0px);
+     font-size: 10pt!important;
+     padding: 0 0 0 40px;
+}
+#n1
+{
+    height: 100px;
+    background-color: #006A4D!important;
+    color: white;
+    
+}
+h2
+{
+    color: white!important;
+}
+#i1
+{
+    height: 60px;
+    width: 60px;
+    filter:drop-shadow(35);
+}
+
+#i2
+{
+    transform: translateX(13px);
+    height: 40px;
+    width: 40px;
+    color: azure;
+}
