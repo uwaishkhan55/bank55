@@ -36,5 +36,7 @@ h2
 #logo
 {
     background-size:cover;
+    height:600px;
+    width:80%;
 
 }
